@@ -4,9 +4,12 @@
 
 def my_func(v1, v2, v3):
     my_list_1 = [v1, v2, v3]
-    my_list_1.pop(my_list_1.index(min(my_list_1)))
-    return print(sum(my_list_1))
+    try:
+        my_list_1.pop(my_list_1.index(min(my_list_1)))
+        return sum(my_list_1)
+    except TypeError:
+        return "Вводить только числа"
 
-my_func(1, 2, 3)
+print(my_func(1, 2, 3))
 
 
