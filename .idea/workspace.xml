@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d592fd0c-3a1b-4ba9-8ca2-1e9e2203f464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson2/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/task6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,22 +168,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1583017797694">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1583064190488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583017797694" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1583017797692">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583064190488" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1583064190488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583017797692" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1583017797692">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583064190488" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1583064190487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583017797692" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1583017797693">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583064190487" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1583064190488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583017797693" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583064190488" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582838277323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
