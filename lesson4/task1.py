@@ -26,3 +26,20 @@ while True:
         break
 
 
+"""
+#Упрощённый вариант
+from sys import argv
+
+while True:
+    try:
+        script_name, work_time, salary_per_hour, bonus = argv
+        salary = (int(work_time) * int(salary_per_hour)) + int(bonus)
+        print(f"выработка в часах: {work_time}")
+        print(f"ставка в час: {salary_per_hour}")
+        print(f"премия: {bonus}")
+        print(f"Заработная плата сотрудника: {salary}")
+        break
+    except ValueError:
+        print("Ошбика: все значения должны быть заполнены")
+        break
+"""
