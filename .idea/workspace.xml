@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d592fd0c-3a1b-4ba9-8ca2-1e9e2203f464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson7/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/task4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,11 +145,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.task4" />
-      <item itemvalue="Python.task5" />
       <item itemvalue="Python.task1" />
       <item itemvalue="Python.task2 (1)" />
       <item itemvalue="Python.task3 (1)" />
+      <item itemvalue="Python.task4" />
+      <item itemvalue="Python.task5" />
     </list>
     <recent_temporary>
       <list>
