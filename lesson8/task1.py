@@ -6,8 +6,8 @@
 """
 
 class Data():
-    def __init__(self, param):
-        Data.param = param
+    def __init__(self, param=0):
+        self.param = param
 
     @staticmethod
     def check_digit(num):
@@ -38,11 +38,14 @@ class Data():
             return print(f"Не верный формат данных")
 
     @classmethod
-    def get_data(cls):
+    def get_data_2(cls, x):
         list_int = []
-        [list_int.append(Data.check(el, i)) for i, el in enumerate(Data.param.split("-")) if Data.check_digit(el) == True]
+        [list_int.append(cls.check(el, i)) for i, el in enumerate(x.split("-")) if cls.check_digit(el) == True]
         return list_int if len(list_int) == 3 \
             else print(f"Ошибка, дата не должна содержать текст")
 
-my_date = Data("15-03-2020")
-print(my_date.get_data())
+my_date = Data()
+print(my_date.get_data_2("15-03-2020"))
+
+my_date_2 = Data("25-11-2019")
+print(my_date.get_data_2("17-11-2019"))
