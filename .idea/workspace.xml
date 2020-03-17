@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d592fd0c-3a1b-4ba9-8ca2-1e9e2203f464" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson7/eee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson8/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8/task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
-  <component name="RunManager" selected="Python.task1 (1)">
+  <component name="RunManager" selected="Python.task2 (1)">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python level 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,10 +151,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task2 (1)" />
         <item itemvalue="Python.task1 (1)" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.task3 (1)" />
-        <item itemvalue="Python.task2 (1)" />
         <item itemvalue="Python.task1" />
       </list>
     </recent_temporary>
@@ -180,22 +181,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583086833509" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1584483092364">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1584484970496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584483092364" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1584483092363">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584484970496" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1584484970496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584483092363" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1584483092363">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584484970496" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1584484970495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584483092363" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1584483092364">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584484970495" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1584484970496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584483092364" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584484970496" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1583628809282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

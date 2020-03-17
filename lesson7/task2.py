@@ -9,16 +9,16 @@
 реализовать абстрактные классы для основных классов проекта, проверить на практике работу декоратора @property.
 
 """
-from abc import ABC, abstractclassmethod
+from abc import ABC, abstractmethod
 
-class Dress():
+class Dress(ABC):
     def __init__(self, param):
         self.param = param
 
     def __str__(self):
         return f"{self.param}"
 
-    @abstractclassmethod
+    @abstractmethod
     def size(self):
         pass
 
@@ -32,8 +32,6 @@ class Suit(Dress):
     def size(self):
         return f"Расход ткани на костюм для роста {self.param} = {(2 * self.param) + 0.3:.2f}"
 
-m = Dress("Куртка")
-print(f"{m}")
 c = Coat(50)
 print(c.size)
 s = Suit(130)
